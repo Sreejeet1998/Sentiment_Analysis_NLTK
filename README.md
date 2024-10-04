@@ -1,7 +1,8 @@
 # Sentiment Analysis with NLTK
 
 This project implements sentiment analysis using the Natural Language Toolkit (NLTK) library in Python. It allows users to classify the sentiment of textual data as positive, negative, or neutral, based on predefined datasets and models.
-Features
+
+# Features
 
     Text Preprocessing: Cleans and preprocesses raw text data by removing noise, stopwords, and performing tokenization.
     Sentiment Classification: Uses NLTK's sentiment analysis tools to classify text into positive, negative, or neutral sentiment.
